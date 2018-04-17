@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="pessoa-fisica-MVC-master/CadastroPF/src"/>
+	<classpathentry kind="lib" path="C:/Users/vinic/Videos/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="output" path="pessoa-fisica-MVC-master/CadastroPF/bin"/>
+</classpath>
